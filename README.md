@@ -1,20 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# El Malek Entertainment 👑
 
-# Run and deploy your AI Studio app
+A premium website for Ahmad Al Ali — oriental keyboardist offering entertainment services for weddings and royal events.
 
-This contains everything you need to run your app locally.
+## Tech Stack
 
-View your app in AI Studio: https://ai.studio/apps/213f625a-dd9f-46a9-a531-4b0916a74f40
+- React 19 + TypeScript
+- Vite
+- Tailwind CSS 4
+- Framer Motion
+- Google Gemini AI SDK
+- Express
 
-## Run Locally
+## License
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+All rights reserved © JBEnterprises 
